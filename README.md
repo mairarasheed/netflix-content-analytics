@@ -19,3 +19,6 @@ Netflix Movies and TV Shows dataset from Kaggle.
 
 Tableau Dashboard:
 https://public.tableau.com/views/Book1_17732954500640/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Dashboard Preview:
+![Netflix Dashboard](Screenshot 2026-03-12 at 2.18.26 AM.png)
